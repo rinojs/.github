@@ -21,19 +21,3 @@ Fast learning, preprocessing, intuitive web framework
 - [RB Geargom Shop](https://www.redbubble.com/people/Geargom/shop)
 
 # 👨‍👩‍👧‍👦 **Sponsors**
-
-## 🔥 **IMMORTAL SUPPORTER**
-
-## 👼 **DIVINE SUPPORTER**
-
-## 🎻 **ANCIENT SUPPORTER**
-
-## ⚔ **LEGEND SUPPORTER**
-
-## 🌲 **ARCHON SUPPORTER**
-
-## 🍀 Crusader Supporter
-
-## ☘ Guardian Supporter
-
-## 🌱 Herald Supporter
