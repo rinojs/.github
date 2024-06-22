@@ -1,3 +1,6 @@
+# NOTICE
+This project is no longer maintained. We are working on other project for web development.
+
 # Rino.js & Rinokit
 
 Fast learning, preprocessing, intuitive web framework
