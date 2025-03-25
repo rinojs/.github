@@ -1,1 +1,1 @@
-# .github
+# Rino Organization Profile Repository
